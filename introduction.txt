@@ -1,0 +1,4 @@
+Hi! I'm Anissa Patel, a senior from the DC area studying Computer Science and Data Science at Boston University (BU). 
+
+My favorite class at BU is XC475: BU Spark! Technology Innovation Fellowship. I had the opportunity to develop and deploy the full-stack web application, EduSync, alongside a team of five students! 
+
